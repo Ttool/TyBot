@@ -1,4 +1,4 @@
 TyBot
 =====
 
-PhP class for Travian Bot
+PhP class for A Travian Assistant.
